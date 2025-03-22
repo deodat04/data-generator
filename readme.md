@@ -1,7 +1,7 @@
 # Données à générer
 - Nombres entiers
 - Nombres flottants
-- autres données : mots[longueurs variables], images, coordonnees, date, coordonnees GPS
+- autres données : mots[longueurs variables], images, coordonnees, date, coordonnees GPS, image(base64)
 
 # Désordre
 - Niveau de désordre varie entre [0,100]
