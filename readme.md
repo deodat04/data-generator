@@ -26,12 +26,12 @@ i.e : `./main 10 70.0 Debut int`
 
 # source
 - [Dictionnaire de mots](https://github.com/chrplr/openlexicon/blob/master/datasets-info/Liste-de-mots-francais-Gutenberg/README-liste-francais-Gutenberg.md)
-- [TP entropie](`https://www.fil.univ-lille.fr/~salson/portail/cdc/tp/TP-Entropie/enonce.html#mise-en-%C5%93uvre-du-calcul-de-lentropie`)
-- [Informations Entropie de Shannon](`https://spip.teluq.ca/inf6460/spip.php?article110`)
-- [Règle de la fonction sinus](`https://www.alloprof.qc.ca/fr/eleves/bv/mathematiques/la-recherche-de-la-regle-d-une-fonction-sinus-m1173`)
-- [Corrélation de Pearson et test statistique](`http://www.biostat.ulg.ac.be/pages/Site_r/corr_pearson.html`)
-- [Génération image aléatoire](`https://github.com/yulvil/gopherjs-examples/blob/master/02-base64img/base64img.go`)
-- [Fichier création image](`https://github.com/nothings/stb/blob/master/stb_image_write.h`)
+- [TP entropie](https://www.fil.univ-lille.fr/~salson/portail/cdc/tp/TP-Entropie/enonce.html#mise-en-%C5%93uvre-du-calcul-de-lentropie)
+- [Informations Entropie de Shannon](https://spip.teluq.ca/inf6460/spip.php?article110)
+- [Règle de la fonction sinus](https://www.alloprof.qc.ca/fr/eleves/bv/mathematiques/la-recherche-de-la-regle-d-une-fonction-sinus-m1173)
+- [Corrélation de Pearson et test statistique](http://www.biostat.ulg.ac.be/pages/Site_r/corr_pearson.html)
+- [Génération image aléatoire](https://github.com/yulvil/gopherjs-examples/blob/master/02-base64img/base64img.go)
+- [Fichier création image](https://github.com/nothings/stb/blob/master/stb_image_write.h)
 
 
 # Entropie
